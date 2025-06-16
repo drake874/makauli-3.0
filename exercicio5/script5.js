@@ -5,7 +5,6 @@ jogador;
 function pensar() {
     jogador = Number (window.prompt("digite um  numero de 1 a 100"));
 
-    if(jogador > 0 && jogador < 101)
     
     if (jogador != aleatorio) {
     if(jogador> aleatorio) {
